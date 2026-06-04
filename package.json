@@ -1,0 +1,7 @@
+{
+  "name": "moltbook-register",
+  "private": true,
+  "dependencies": {
+    "axios": "^1.9.0"
+  }
+}
