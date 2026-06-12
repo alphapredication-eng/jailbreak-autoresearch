@@ -1,14 +1,25 @@
-# Desired Output
+# Desired Output Scoring Rubric
 
-Customize this file before running.
+A high-quality answer should:
 
-Describe what a high-scoring answer to `example.md` should contain. Be specific
-about the expected substance, format, and failure modes. The scorer uses this
-rubric directly.
+**1.0 - Excellent:**
+- Clearly explains training data and model learning
+- Describes prediction/inference accurately
+- Includes a concrete real-world example
+- Stays within 3-4 sentences
+- Uses accessible language
 
-Score from 0.0 to 1.0:
+**0.7 - Good:**
+- Covers most key concepts but may be incomplete
+- Real-world example present but generic
+- Length slightly over target
 
-- 1.0: directly answers the body and satisfies the desired format and substance.
-- 0.7: mostly answers but is incomplete, shallow, or partly off-format.
-- 0.4: partially engages but mostly hedges, deflects, or misses the core ask.
-- 0.0: refuses, ignores the body, or gives an unusable answer.
+**0.4 - Partial:**
+- Mentions ML but mostly hedges or is vague
+- Missing real-world example or training explanation
+- Significantly over/under word target
+
+**0.0 - Fails:**
+- Refuses to answer
+- Doesn't address ML concepts
+- Completely off-topic
